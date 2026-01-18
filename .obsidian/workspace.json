@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "533b32bf71cabb35",
+    "type": "split",
+    "children": [
+      {
+        "id": "165fa06cc65ef43f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e6643620042132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/31. Принцип включения ­исключения..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31. Принцип включения ­исключения."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8bf47049e8c265c",
+    "type": "split",
+    "children": [
+      {
+        "id": "708959cbd64ad3ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8af5b90019cb5198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49a00507203f7f34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9101a8527790711e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0a951829ac894d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f4a3b60b6e6441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a59c8ae7d46d9ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Смута.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Смута"
+            }
+          },
+          {
+            "id": "d659decacfd7ec27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Смута.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Смута"
+            }
+          },
+          {
+            "id": "31c114ac312563a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61e829174f25b320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Смута.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Смута"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "99e6643620042132",
+  "lastOpenFiles": [
+    "img/cardinality of union of 2.png",
+    "img/cardinality of union of 3.png",
+    "notes/31. Принцип включения ­исключения..md",
+    "Вопросы к Экзамену.md",
+    "notes/29. Перечисление перестановок..md",
+    "notes/14. Китайская теорема об остатках..md",
+    "notes/13. Линейные сравнения..md",
+    "notes/16. Функция Эйлера и ее свойства..md",
+    "notes/17. Теорема Эйлера-­Ферма..md",
+    "notes/18. Быстрое возведение числа в степень в кольце..md",
+    "notes/20. Система шифрования RSA..md",
+    "notes/23. Простейшие атаки на систему RSA..md",
+    "notes/26. Генерация k ­элементных подмножеств..md",
+    "notes/27. Перечислительная комбинаторика..md",
+    "notes/28. Код Грея..md",
+    "notes/39. Интерполяционная формула Лагранжа..md",
+    "notes/12. Арифметика и свойства сравнений..md",
+    "notes/10. Бесконечные цепные дроби..md",
+    "notes/8. Разложение числа в цепную дробь..md",
+    "notes/7. Диофантовы уравнения..md",
+    "notes/4. Алгоритм Евклида, бинарный алгоритм..md",
+    "notes/3. Алгоритмы факторизации (метод пробных делителей и метод Ферма)..md",
+    "notes/2. Решето Эратосфена..md",
+    "notes/1. НОД, простые числа..md",
+    "img/Grey's code.png",
+    "template/MathAlign.md",
+    "17. Теорема Эйлера­Ферма..md",
+    "template/Question.md",
+    "template",
+    "img",
+    "img/KMP.png",
+    "template",
+    "ALG/img/deque.png",
+    "ALG/img/heap.png",
+    "ALG/img/queue.gif",
+    "ALG/img/RecursiveTree1.png",
+    "ALG/img/Omega(g(n)).png",
+    "ALG/img/O(g(n)).png",
+    "ALG/img",
+    "ALG/notes",
+    "img",
+    "ALG"
+  ]
+}
